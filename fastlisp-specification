@@ -283,6 +283,8 @@
 #"this is a string with a newline character in it \n"
 #"this is a string with a tab character in it \t"
 #
+#strings compile to linked lists of characters
+#characters compile to linked lists of booleans
 #the language may be extended to allow unicode characters in strings
 #
 #this langauge is intended to be first compiled to some variation of binary lambda calculus
